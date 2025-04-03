@@ -40,6 +40,7 @@ SIMPLE_JWT = {
 }
 # Application definition
 
+
 INSTALLED_APPS = [
     'usuarios',
     'django.contrib.admin',
